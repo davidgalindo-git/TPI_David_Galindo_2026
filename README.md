@@ -1,6 +1,6 @@
 # TPI
 
-Développé avec [Vue 3](https://vuejs.org/) et [Vite](https://vitejs.dev/).
+Développé par David Galindo (SI-CA2a) avec [Vue 3](https://vuejs.org/) et [Vite](https://vitejs.dev/).
 ## Démarrage de l'app
 1. Avoir installé [Node.js](https://nodejs.org/fr)
 2. Cloner localement le repository git
